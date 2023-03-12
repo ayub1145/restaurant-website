@@ -45,7 +45,10 @@ ul.headerItems {
 .headerItems li a:hover {
     color: rgb(205, 164, 94);
 }
-
+.col--md-6.text-end.language {
+    width: 570px;
+    float: right;
+}
 #dropDown {
     position: absolute;
     list-style: none;
